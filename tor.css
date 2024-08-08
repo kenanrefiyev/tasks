@@ -1,0 +1,52 @@
+.container{ 
+    background-color: #fff; 
+    display: flex; 
+    flex-direction: row; 
+    justify-content: center; 
+    flex-wrap: wrap; 
+    gap: 33px; 
+    height: 350px; 
+    margin-top: 200px; 
+    margin-block: 120px 
+} 
+.item{ 
+    border: 1px solid #e9ecef; 
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    text-align: center; 
+    width: 300px; 
+    height: 350px; 
+    padding-inline: 30px; 
+     
+ 
+} 
+.physics1{ 
+    color: rgb(165, 162, 162); 
+    line-height: 1.1; 
+    font-size: 1,1rem; 
+    font-weight: 300; 
+} 
+.lorem{ 
+ color: rgb(97, 97, 97); 
+ line-height: 1.7; 
+ font-size: 1,1rem; 
+ font-weight: 300; 
+} 
+.header { 
+display: flex; 
+flex-direction: column; 
+align-items: center; 
+text-align: center; 
+line-height: 1.7; 
+font-size: 1.1rem; 
+padding-inline: 30%; 
+margin-bottom: 50px; 
+ 
+} 
+ 
+img{ 
+    width: 40%; 
+    margin-top: -30px; 
+    border-radius: 100%; 
+}
