@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: gray;
+    line-height: 1.7;
+    font-family: "Mulish", sans-serif;
+}
+::selection{
+    background-color: black;
+    color: white;
+}
+#teacherss{
+padding-block: 4rem;
+}
+
+.container{
+    width: 80%;
+    max-width: 1140px;
+    margin-inline: auto;
+}
+
+#teacherss header{
+    text-align: center;
+
+}
+.section-title{
+    color: black;
+    font-size: 3rem;
+    font-weight: 900;
+    margin-bottom: 1.8rem;
+}
+.section-title+p{
+    width: 600px;
+    margin-inline: auto;
+    margin-bottom: 5rem;
+}
+#teacherss main{
+    display: flex;
+    gap: 30px;
+}
+img{
+    width: 50%;
+    border-radius: 100%;
+    margin-top: -100px;
+}
+.teachers{
+    border: 1px solid #e9ecef;
+    padding: 30px;
+    text-align: center;
+    
+}
