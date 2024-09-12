@@ -67,4 +67,46 @@
 // let sixthDigit = resultString[5];
 // console.log(sixthDigit)
 
+// Task-17
+
+// enterNumber = prompt("Dörd rəqəmli ədəd daxil edin")
+// let total = enterNumber[0] + enterNumber[1] + enterNumber[2] + enterNumber[3] 
+// console.log(total)
+
+// Task-18
+// let name = prompt("Soyad ve ad");
+// console.log(`Salam ${name}`)
+
+// Task-19
+
+// let enterPrice = prompt("Zəhmət olmasa '530.90' formatinda daxil edin")
+// console.log()
+// ??
+
+// Task-23
+// let value = 10;
+// // 1
+// console.log(value<=10);
+// // 2
+// console.log(value<20);
+// // 3
+// console.log(value===10);
+// // 4
+// console.log(value!==20);
+// // 5
+// console.log(value<15);
+
+// Task-22
+
+// let amount = prompt("Məbləği daxil et");
+// let time = prompt("Müddəti daxil et");
+// let percentage = prompt("Faizidaxil et");
+// let profit = amount * time * percentage /100;
+// console.log(profit);
+
+// Task-21
+// let soyad = prompt("Zəhmət olmasa soyad daxil et")
+// let ad = prompt("Zəhmət olmasa ad daxil et")
+// let ata = prompt("Zəhmət olmasa ata adını daxil et")
+// console.log(`${soyad} ${ad} ${ata}`)
 
